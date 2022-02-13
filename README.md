@@ -264,8 +264,8 @@ the BPR&D so that problems relating to prisons and implementation of deemed pris
 </html>
 ```
 ## OUTPUT:
-![Github logo](home.png)
-![Github logo](home.png)
+![Github logo](Gallery.png)
+![Github logo](homemain.png)
 ![Github logo](home.png)
 
 
